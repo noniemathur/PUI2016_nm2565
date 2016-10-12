@@ -25,3 +25,9 @@ Your last figure is completely uninformative because such a large fraction of th
 
 
 Only once you have decided what you want to measure (mean, median, fraction above threshold...) you can decide which test you want to do.
+
+citibike.head is a function:
+citibike.head()
+
+If used not as a function it will dump a lot of lines non formatted. if used properly it will print the first 5 lines in a tabulated format. Much better!
+
