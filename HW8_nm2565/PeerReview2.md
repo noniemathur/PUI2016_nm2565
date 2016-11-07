@@ -7,3 +7,4 @@ Clarity: In terms of clarity, the plot has a readable legend, the plot title and
 Aesthetics: In terms of aesthetics, the plot generated is pretty clear and understandable, in terms of the choice of the colors used. The values plotted (the intervals in the X values) are also chosen appropriately. However, the zip codes are listed as float, they can be converted into integers (without the decimal point).  
 
 Honesty: Displaying information like this is a very effective way of communicating a problem as important as this one. This kind of information can be easily made accessible to the public as well the city agencies to identify the areas that need attention. 
+![alt text](https://github.com/noniemathur/PUI2016_nm2565/blob/master/HW8_nm2565/Plot.png)
